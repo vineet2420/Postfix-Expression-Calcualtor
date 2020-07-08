@@ -1,2 +1,2 @@
 # Postfix-Expression-Calcualtor
-Stack implementation computing a user generared postfix expression
+Stack implementation computing a user generated postfix expression
