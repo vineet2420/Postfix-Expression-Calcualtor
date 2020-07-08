@@ -1,2 +1,2 @@
 # Postfix-Expression-Calcualtor
-Accepts postfix input and returns the computation
+Stack implementation computing a user generated postfix expression
